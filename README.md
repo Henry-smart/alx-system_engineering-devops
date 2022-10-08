@@ -1,1 +1,1 @@
-This repository is all about bash shell navigation and the use of script command
+0-current_working_directory - this script  will print the absolute pathname of the current working directory
