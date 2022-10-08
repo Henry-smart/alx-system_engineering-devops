@@ -1,2 +1,2 @@
 #!/bin/bashi
-chown vincent:staff*
+chown vincent:staff *
