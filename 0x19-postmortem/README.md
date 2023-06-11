@@ -25,4 +25,4 @@ The issue dectected was dependancy alert because the repository I forked was ful
 <p>The resolution and the recovery of this issue was updating the dependance rule to automatically acknowlege the changes made on the original file.</p>
 
 <li>Corrective and preventative measures</li>
-<p>After Updating the dependant Rule of this software, it should be able to updated instantly when alerted by the github by making the github alert ON.
+<p>After Updating the dependant Rule of this software, it should be able to updated instantly when alerted by the github by making the github alert ON.</p></ul>
