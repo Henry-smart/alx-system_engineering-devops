@@ -11,7 +11,8 @@ After that day(01 june 2023) github constantly alerts me on email as depedance a
 The issue dectected was dependancy alert because the repository I forked was fulled with the outage version of software. This incident is still present because I don't want to fix since it doesn't matter and I there is no need to debug, the software version has already expired and no longer in use.</p>
 
 <li><h2>Root Cause</h2></li>
-<p>The main cause of the issues were many but for instance I can mention one of them
+<p>The main cause of the issues were many but for instance I can mention few of them;
+
 <strong>[Security]</strong>
 [CRuby] Vendored libxml2 is updated to address CVE-2022-2309, CVE-2022-40304, and CVE-2022-40303. See GHSA-2qc6-mcvw-92cw for more information. [CRuby] Vendored zlib is updated to address CVE-2022-37434. Nokogiri was not affected by this vulnerability, but this version of zlib was being flagged up by some vulnerability scanners which github file tracking algorithm acknowleged, see #2626 for more information.
 
@@ -24,5 +25,5 @@ The issue dectected was dependancy alert because the repository I forked was ful
 <li><h2>Resolution and Recovery</h2></li>
 <p>The resolution and the recovery of this issue was updating the dependance rule to automatically acknowlege the changes made on the original file.</p>
 
-<li>Corrective and preventative measures</li>
+<li><h2>Corrective and preventative measures</h2></li>
 <p>After Updating the dependant Rule of this software, it should be able to updated instantly when alerted by the github by making the github alert ON.</p></ul>
