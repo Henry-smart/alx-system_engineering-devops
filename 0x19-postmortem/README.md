@@ -1,6 +1,6 @@
 <h1>Postmortem</h1>
 
-<img scr="https://www.istockphoto.com/photo/bizarre-chemists-gm459981197-31447094" width="400" height"400">
+<img scr="https://media.istockphoto.com/id/459981197/photo/bizarre-chemists.jpg?s=1024x1024&w=is&k=20&c=29bsU4ze4ctoi1L4nB6iEbsrEHpMSOn-K4-G1kWCSmI=" alt="istockphoto.com" style="width:400px;height:400px;">
 
  Incident Report or summary, also referred to as a Postmortem outlines the total summary of an incident the occured with a collaborative project deployed by my team of which a security issue was detected. This postmortem follows the guidelines used closely by Microsoft engineers to file reports. The report is made up of five parts, an issue summary, a timeline, root cause analysis, resolution and recovery, and lastly, corrective and preventative measures. Lets review each of these parts in detail.
 <ul>
